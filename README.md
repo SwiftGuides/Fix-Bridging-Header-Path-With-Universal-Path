@@ -11,7 +11,9 @@ $(SRCROOT)/$(PROJECT_NAME)/$(PROJECT_NAME)-Bridging-Header.h
 
 ```
 
-##Note :- that if your project is a swift module (framework) then, as pointed out in the comments, you might prefer (##Highly Recommended)
+## Note :- that if your project is a swift module (framework) then, as pointed out in the comments, you might prefer 
+
+# (Highly Recommended)
 
 ```
 $(SRCROOT)/$(PROJECT_NAME)/$(SWIFT_MODULE_NAME)-Bridging-Header.h
